@@ -65,9 +65,11 @@ span-aware-derogatory-language-detection/
 
 ## Project Files
 
-- **Jupyter Notebook:** Source code and experimental implementation.
-- **Project Report:** Detailed methodology, results, evaluation, and discussion.
-- **Presentation:** Summary of the research project and its findings.
+## Project Files
+
+- 📓 [Jupyter Notebook – Source Code](text_mining_raptnew.ipynb)
+- 📄 [Full Project Report](TMS_Project_Report.pdf)
+- 📊 [Presentation Slides](TMS_Presentation.pptx)
 
 ## Technologies
 
